@@ -1,22 +1,22 @@
 # klaudiaklaudia2022.github.io
 **Klaudia Michalczyk**
 ##Erfahrung 
-#### Wie lernt man programieren? ####/
+#### Wie lernt man programieren? ####\
 od 2019 
 
-Krakow/
+Krakow\
 od 2019
 
-Idemia/
+Idemia\
 2016-2018
 
-Adagi i yagi/
+Adagi i yagi\
 2015- 2017 
 
-fujutsu/
+fujutsu\
 2015-2016
 
-tomtom/
+tomtom\
 2012-2014
 
 
